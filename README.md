@@ -1,0 +1,2 @@
+# Literary-Text-Character-Analysis-and-Character-Relationship-Mapping
+本科毕业论文的主题涉及同一作家多本小说中人物形象的分析，准备时难免感到繁琐和被自己的主观情绪影响，所以希望能用ai快速分析小说中的人物形象和人物关系。
